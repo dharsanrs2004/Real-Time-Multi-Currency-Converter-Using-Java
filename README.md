@@ -47,5 +47,3 @@ The design follows clean coding practices by separating **data models**, **busin
 
 ---
 
-## 📂 Project Structure
-
